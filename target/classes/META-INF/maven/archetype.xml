@@ -1,0 +1,9 @@
+<archetype>
+  <id>PT2024_30226_Lupou_Krisztian_Robert_Assignment_3</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
